@@ -1,0 +1,1 @@
+# Placeholder untuk arsitektur proyek
