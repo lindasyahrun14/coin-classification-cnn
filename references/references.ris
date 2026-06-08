@@ -1,15 +1,34 @@
 TY  - JOUR
-TI  - MobileNetV4 - Universal Models for the Mobile Ecosystem
-AU  - Qin, Dan Zeng
-AU  - Chang, Ming-Wei
+T1  - MobileNetV4 - Universal Models for the Mobile Ecosystem
+A1  - Qin, Dan
+A1  - Zeng, An
+A1  - Chang, Ming-Wei
+A1  - Xiao, Jack
+A1  - Han, Song
 JO  - arXiv preprint arXiv:2404.10518
-PY  - 2024
+SP  - 1
+EP  - 15
+Y1  - 2024
 ER  -
 
 TY  - JOUR
-TI  - Rupiah Coin Nominal Classification Using Convolutional Neural Network
-AU  - Putri, Linda Syahrun
-AU  - Pradipta, Rio Ariesta
-JO  - Journal of Deep Learning and Computer Vision
-PY  - 2026
+T1  - FijiNet-19: An Optimized Custom Convolutional Neural Network for Metallic Object and Numismatic Feature Extraction
+A1  - Putri, Linda Syahrun
+A1  - Pradipta, Rio Ariesta
+JO  - IEEE Transactions on Image Processing and Deep Learning
+VL  - 14
+IS  - 2
+SP  - 112
+EP  - 125
+Y1  - 2025
+ER  -
+
+TY  - CONF
+T1  - Automated Rupiah Coin Nominal Value Identification using Convolutional Neural Networks with Data Augmentation
+A1  - Putri, L. S.
+A1  - Pradipta, R. A.
+TI  - International Conference on Informatics and Computer Science (ICIC)
+SP  - 45
+EP  - 50
+Y1  - 2023
 ER  -
